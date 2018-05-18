@@ -3,7 +3,6 @@ extern crate gif;
 extern crate sdl2;
 
 mod animation;
-mod render;
 
 use std::env;
 use std::path::PathBuf;
