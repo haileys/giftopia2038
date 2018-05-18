@@ -1,0 +1,9 @@
+[package]
+name = "giftopia2038"
+version = "0.0.0"
+authors = ["Charlie Somerville <charlie@charlie.bz>"]
+
+[dependencies]
+crossbeam = "0.3"
+gif = "0.10"
+sdl2 = { version = "0.31" }
